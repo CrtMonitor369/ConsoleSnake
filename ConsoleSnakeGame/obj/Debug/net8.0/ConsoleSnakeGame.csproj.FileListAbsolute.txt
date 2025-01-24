@@ -1,0 +1,15 @@
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/bin/Debug/net8.0/ConsoleSnakeGame
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/bin/Debug/net8.0/ConsoleSnakeGame.deps.json
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/bin/Debug/net8.0/ConsoleSnakeGame.runtimeconfig.json
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/bin/Debug/net8.0/ConsoleSnakeGame.dll
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/bin/Debug/net8.0/ConsoleSnakeGame.pdb
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.AssemblyInfoInputs.cache
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.AssemblyInfo.cs
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.csproj.CoreCompileInputs.cache
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.sourcelink.json
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.dll
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/refint/ConsoleSnakeGame.dll
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.pdb
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ConsoleSnakeGame.genruntimeconfig.cache
+/home/carl/Documents/ConsoleSnake/ConsoleSnakeGame/obj/Debug/net8.0/ref/ConsoleSnakeGame.dll
